@@ -1,0 +1,3 @@
+MUMBAI='https://rpc.ankr.com/polygon_mumbai'
+CONTRACT='0x...ContractAddress'
+PRIVATE='PrivateKey----Tanpa "0x"'
